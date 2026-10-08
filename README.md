@@ -11,8 +11,9 @@ This repository only hosts the releases.
 ## Get started
 
 1. Open the DMG and drag DeviceHarbor into Applications.
-2. First launch: right-click the app › Open › Open, or System Settings › Privacy & Security › Open Anyway. The app is
-   not notarized by Apple, so macOS asks once.
+2. First launch: double-click the app; macOS says it could not verify it, click Done. Then System Settings › Privacy &
+   Security › scroll to Security › **Open Anyway** next to DeviceHarbor, and confirm with your password or Touch ID.
+   The app is not notarized by Apple, so this is needed once.
 3. On the Android phone (once): Settings › About phone › Software information › tap "Build number" 7 times, then
    Settings › Developer options › turn on "USB debugging".
 4. Plug it in and tap "Allow" on the phone.
